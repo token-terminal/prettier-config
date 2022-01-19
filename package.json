@@ -1,18 +1,15 @@
 {
-  "name": "@saulx/prettier-config",
+  "name": "@token-terminal/prettier-config",
   "version": "1.0.0",
-  "description": "Saulx Prettier Config",
-  "homepage": "https://github.com/atelier-saulx/prettier-config",
+  "description": "Token Terminal's Prettier Config",
+  "homepage": "https://github.com/token-terminal/prettier-config",
   "license": "MIT",
   "main": "index.json",
   "peerDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.5.1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/atelier-saulx/prettier-config.git"
-  },
-  "bugs": {
-    "url": "https://github.com/atelier-saulx/prettier-config/issues"
+    "url": "git://github.com/token-terminal/prettier-config.git"
   }
 }
